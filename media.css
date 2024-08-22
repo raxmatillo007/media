@@ -81,7 +81,7 @@
     }
 
     @media (max-width:768px) {
-        background-color: rgba(255, 255, 0, 0.75);
+        background-color: rgba(192, 192, 154, 0.75);
         width: 50%;
         height: 125px;
         margin-left: 384px;
